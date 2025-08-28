@@ -1,0 +1,2 @@
+/home/FYP/mohor001/Bird-Song-Detector/Code/audio_processing.py:30: UserWarning: amplitude_to_db was called on complex input so phase information will be discarded. To suppress this warning, call amplitude_to_db(np.abs(S)) instead.
+  D = librosa.amplitude_to_db(librosa.stft(y), ref=np.max)

@@ -1,0 +1,3 @@
+[submodule "Bird-Song-Detector"]
+	path = Bird-Song-Detector
+	url = git@github.com:mohrsalt/Bird-Song-Detector.git
